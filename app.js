@@ -1,4 +1,4 @@
-const CONFIG={whatsappNumber:"216XXXXXXXX",currency:"DT",adminPin:"1234"};
+const CONFIG={whatsappNumber:"21697871202",currency:"DT",adminPin:"1234"};
 const starterProducts=[
 {id:"p1",name:{fr:"Étagère murale",ar:"رف حائطي",en:"Wall shelf"},category:"shelves",price:45,image:"https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=900&q=80",desc:{fr:"Une étagère sobre pour exposer vos objets préférés.",ar:"رف أنيق لعرض أغراضك المفضلة.",en:"A clean shelf for your favorite objects."}},
 {id:"p2",name:{fr:"Table d'appoint",ar:"طاولة جانبية",en:"Side table"},category:"tables",price:120,image:"https://images.unsplash.com/photo-1499933374294-4584851497cc?auto=format&fit=crop&w=900&q=80",desc:{fr:"Une petite table pratique au charme naturel.",ar:"طاولة صغيرة عملية بلمسة طبيعية.",en:"A practical small table with natural charm."}},
